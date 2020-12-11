@@ -1,0 +1,12 @@
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.exe
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.deps.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.runtimeconfig.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.runtimeconfig.dev.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.dll
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\bin\Debug\netcoreapp3.1\FactoryMethod2.pdb
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.AssemblyInfoInputs.cache
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.AssemblyInfo.cs
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.csproj.CoreCompileInputs.cache
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.dll
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.pdb
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod2\obj\Debug\netcoreapp3.1\FactoryMethod2.genruntimeconfig.cache

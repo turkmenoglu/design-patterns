@@ -1,0 +1,13 @@
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.exe
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.deps.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.runtimeconfig.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.runtimeconfig.dev.json
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.dll
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\bin\Debug\netcoreapp3.1\FactoryMethod3.pdb
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.csprojAssemblyReference.cache
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.AssemblyInfoInputs.cache
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.AssemblyInfo.cs
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.csproj.CoreCompileInputs.cache
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.dll
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.pdb
+C:\Users\ismail.turkmenoglu\source\repos\design-patterns\DesignPatterns\Creational\FactoryMethod\FactoryMethod3\obj\Debug\netcoreapp3.1\FactoryMethod3.genruntimeconfig.cache
